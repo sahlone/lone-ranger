@@ -31,7 +31,7 @@ public class GamePlayController {
     private static final int MAP_SIZE = 12;
 
     private static final int NUMBER_OF_FIGHTS = 30;
-    private static final String DATA_DIR = "data";
+    public static final String DATA_DIR = "data";
 
     private Menu topicMenu;
 

@@ -61,10 +61,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testGetLocation" time="0.003"/>
+  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testGetLocation" time="0.002"/>
   <testcase classname="com.auto1.lr.map.WorldMapTest" name="testIsAllLocationsOpened" time="0.001"/>
-  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveEast" time="0.001"/>
+  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveEast" time="0.002"/>
   <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveWest" time="0.001"/>
-  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveNorth" time="0.001"/>
-  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveSouth" time="0.002"/>
+  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveNorth" time="0.002"/>
+  <testcase classname="com.auto1.lr.map.WorldMapTest" name="testMoveSouth" time="0.001"/>
 </testsuite>

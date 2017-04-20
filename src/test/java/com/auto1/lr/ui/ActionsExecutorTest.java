@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 public class ActionsExecutorTest {
 
-    public static final String TEST_SAVE = "test-save";
+    public static final String TEST_SAVE = "test-data";
 
     @Test
     public void testLoad() throws Exception {
@@ -30,6 +30,6 @@ public class ActionsExecutorTest {
         GameContext gameContext = new GameContext();
         String name = "testSave";
         ActionsExecutor.save(gameContext, name, TEST_SAVE);
-        assertTrue("Save file not found", new File(TEST_SAVE + "/" + name + ".ser").exists());
+        assertTrue("Save file not found", new File(TEST_SAVE + "/" + name + ".data").exists());
     }
 }

@@ -18,7 +18,6 @@ public class AlienLocationMenu extends AbstractMenu implements Serializable {
     public void showMenu() {
         getCommands().clear();
         getCommands().add("Fight");
-        getCommands().add("Run");
         ConsoleLogger.log("Please select an action: ");
         showCommands();
         ConsoleLogger.log("> ");

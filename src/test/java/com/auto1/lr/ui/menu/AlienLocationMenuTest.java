@@ -12,6 +12,6 @@ public class AlienLocationMenuTest {
     public void testShowMenu() throws Exception {
         Menu menu = new AlienLocationMenu();
         menu.showMenu();
-        assertEquals(2, menu.getCommands().size());
+        assertEquals(1, menu.getCommands().size());
     }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="com.auto1.lr.ui.menu.AbstractMenuTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="com.auto1.lr.ui.menu.AbstractMenuTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -63,5 +63,5 @@
   </properties>
   <testcase classname="com.auto1.lr.ui.menu.AbstractMenuTest" name="testGetSelectionIndex" time="0.001"/>
   <testcase classname="com.auto1.lr.ui.menu.AbstractMenuTest" name="testGetCommandByIndex" time="0"/>
-  <testcase classname="com.auto1.lr.ui.menu.AbstractMenuTest" name="testGetCommands" time="0.001"/>
+  <testcase classname="com.auto1.lr.ui.menu.AbstractMenuTest" name="testGetCommands" time="0.002"/>
 </testsuite>

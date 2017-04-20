@@ -34,7 +34,7 @@ public class GameStartupController {
                 gamePlayController.startGame();
             } else if (2 == selectionIndex) {
                 modeSelected = true;
-                GameContext gameContext = ActionsExecutor.load("save");
+                GameContext gameContext = ActionsExecutor.load(GamePlayController.DATA_DIR);
                 if (gameContext != null) {
                     gameContextRepository.setGameContext(gameContext);
                     gamePlayController.continueGame();
