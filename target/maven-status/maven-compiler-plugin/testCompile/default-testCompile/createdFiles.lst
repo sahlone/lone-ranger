@@ -1,0 +1,11 @@
+com/auto1/lr/map/WorldMapTest.class
+com/auto1/lr/repository/GameContextRepositoryTest.class
+com/auto1/lr/ui/menu/DesertMenuTest.class
+com/auto1/lr/ui/menu/TopicMenuTest.class
+com/auto1/lr/ui/menu/AbstractMenuTest.class
+com/auto1/lr/ui/menu/BattleMenuTest.class
+com/auto1/lr/game/battle/FightServiceImplTest.class
+com/auto1/lr/ui/menu/AlienLocationMenuTest.class
+com/auto1/lr/ui/ActionsExecutorTest.class
+com/auto1/lr/ui/menu/PlayerMenuTest.class
+com/auto1/lr/ui/menu/MainMenuTest.class
