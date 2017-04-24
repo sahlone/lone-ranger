@@ -1,4 +1,4 @@
-package com.auto1.lr.model;
+package com.sahil.lr.model;
 
 import java.io.Serializable;
 

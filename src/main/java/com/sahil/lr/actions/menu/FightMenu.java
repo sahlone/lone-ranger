@@ -1,6 +1,6 @@
-package com.auto1.lr.actions.menu;
+package com.sahil.lr.actions.menu;
 
-import com.auto1.lr.logger.ConsoleLogger;
+import com.sahil.lr.logger.ConsoleLogger;
 
 import java.io.Serializable;
 

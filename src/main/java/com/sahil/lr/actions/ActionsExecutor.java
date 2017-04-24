@@ -1,11 +1,11 @@
-package com.auto1.lr.actions;
+package com.sahil.lr.actions;
 
-import com.auto1.lr.actions.menu.CheckpointMenu;
-import com.auto1.lr.actions.menu.Menu;
-import com.auto1.lr.logger.CentralizedLogger;
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.logger.LogLevel;
-import com.auto1.lr.model.GameContext;
+import com.sahil.lr.actions.menu.CheckpointMenu;
+import com.sahil.lr.actions.menu.Menu;
+import com.sahil.lr.logger.CentralizedLogger;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.logger.LogLevel;
+import com.sahil.lr.model.GameContext;
 
 import java.io.*;
 

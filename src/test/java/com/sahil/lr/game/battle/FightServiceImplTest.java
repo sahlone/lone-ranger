@@ -1,4 +1,4 @@
-package com.auto1.lr.game.battle;
+package com.sahil.lr.game.battle;
 
 import com.sahil.lr.service.FightService;
 import com.sahil.lr.service.FightServiceImpl;

@@ -1,4 +1,4 @@
-package com.auto1.lr.ui;
+package com.sahil.lr.ui;
 
 import com.sahil.lr.model.GameContext;
 import com.sahil.lr.actions.ActionsExecutor;

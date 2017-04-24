@@ -1,6 +1,6 @@
-package com.auto1.lr.data;
+package com.sahil.lr.data;
 
-import com.auto1.lr.model.GameContext;
+import com.sahil.lr.model.GameContext;
 
 /**
  * Holds current {@link GameContext} instance

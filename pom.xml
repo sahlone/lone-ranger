@@ -52,7 +52,7 @@
                     <finalName>lone-ranger</finalName>
                     <archive>
                         <manifest>
-                            <mainClass>com.auto1.lr.application.EntryPoint</mainClass>
+                            <mainClass>com.sahil.lr.application.EntryPoint</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

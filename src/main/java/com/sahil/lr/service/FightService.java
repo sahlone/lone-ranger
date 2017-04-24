@@ -1,7 +1,7 @@
-package com.auto1.lr.service;
+package com.sahil.lr.service;
 
-import com.auto1.lr.model.Player;
-import com.auto1.lr.map.locations.Location;
+import com.sahil.lr.model.Player;
+import com.sahil.lr.map.locations.Location;
 
 /**
  * Basic interface for handling battles between player and different NPC

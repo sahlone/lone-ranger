@@ -1,6 +1,6 @@
-package com.auto1.lr.application;
+package com.sahil.lr.application;
 
-import com.auto1.lr.controller.GameStartupController;
+import com.sahil.lr.controller.GameStartupController;
 
 /**
  * Main class of the application

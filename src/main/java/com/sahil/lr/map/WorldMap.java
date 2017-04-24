@@ -1,11 +1,11 @@
-package com.auto1.lr.map;
+package com.sahil.lr.map;
 
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.model.NPC;
-import com.auto1.lr.map.locations.DesertLocation;
-import com.auto1.lr.map.locations.FighterLocation;
-import com.auto1.lr.map.locations.Location;
-import com.auto1.lr.utils.RandomUtil;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.model.NPC;
+import com.sahil.lr.map.locations.DesertLocation;
+import com.sahil.lr.map.locations.FighterLocation;
+import com.sahil.lr.map.locations.Location;
+import com.sahil.lr.utils.RandomUtil;
 
 import java.io.Serializable;
 

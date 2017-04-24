@@ -1,8 +1,6 @@
-package com.auto1.lr.logger;
+package com.sahil.lr.logger;
 
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.StringWriter;
 import java.util.logging.*;
 
 /**

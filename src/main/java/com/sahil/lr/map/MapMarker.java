@@ -1,6 +1,4 @@
-package com.auto1.lr.map;
-
-import com.auto1.lr.map.locations.Location;
+package com.sahil.lr.map;
 
 /**
  * Makes buitiful world map

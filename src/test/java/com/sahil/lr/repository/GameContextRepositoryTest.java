@@ -1,4 +1,4 @@
-package com.auto1.lr.repository;
+package com.sahil.lr.repository;
 
 import com.sahil.lr.model.GameContext;
 import com.sahil.lr.data.GameContextRepository;

@@ -1,21 +1,21 @@
-package com.auto1.lr.controller;
+package com.sahil.lr.controller;
 
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.map.locations.LocationType;
-import com.auto1.lr.service.FightServiceImpl;
-import com.auto1.lr.map.Direction;
-import com.auto1.lr.service.FightService;
-import com.auto1.lr.map.WorldMap;
-import com.auto1.lr.map.locations.Location;
-import com.auto1.lr.model.GameContext;
-import com.auto1.lr.model.Player;
-import com.auto1.lr.data.GameContextRepository;
-import com.auto1.lr.actions.Actions;
-import com.auto1.lr.actions.ActionsExecutor;
-import com.auto1.lr.actions.menu.Menu;
-import com.auto1.lr.actions.menu.PlayerMenu;
-import com.auto1.lr.actions.menu.TopicMenu;
-import com.auto1.lr.utils.RandomUtil;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.map.locations.LocationType;
+import com.sahil.lr.service.FightServiceImpl;
+import com.sahil.lr.map.Direction;
+import com.sahil.lr.service.FightService;
+import com.sahil.lr.map.WorldMap;
+import com.sahil.lr.map.locations.Location;
+import com.sahil.lr.model.GameContext;
+import com.sahil.lr.model.Player;
+import com.sahil.lr.data.GameContextRepository;
+import com.sahil.lr.actions.Actions;
+import com.sahil.lr.actions.ActionsExecutor;
+import com.sahil.lr.actions.menu.Menu;
+import com.sahil.lr.actions.menu.PlayerMenu;
+import com.sahil.lr.actions.menu.TopicMenu;
+import com.sahil.lr.utils.RandomUtil;
 
 import java.time.LocalDateTime;
 

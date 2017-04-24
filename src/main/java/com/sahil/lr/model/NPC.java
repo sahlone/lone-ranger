@@ -1,6 +1,6 @@
-package com.auto1.lr.model;
+package com.sahil.lr.model;
 
-import com.auto1.lr.map.locations.LocationItem;
+import com.sahil.lr.map.locations.LocationItem;
 
 /**
  * This class deals with Non Player Character (Fighter) and all of their properties.

@@ -1,11 +1,11 @@
-package com.auto1.lr.map.locations;
+package com.sahil.lr.map.locations;
 
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.map.MapMarker;
-import com.auto1.lr.actions.menu.AlienLocationMenu;
-import com.auto1.lr.actions.menu.AbstractMenu;
-import com.auto1.lr.actions.menu.DesertMenu;
-import com.auto1.lr.actions.menu.Menu;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.map.MapMarker;
+import com.sahil.lr.actions.menu.AlienLocationMenu;
+import com.sahil.lr.actions.menu.AbstractMenu;
+import com.sahil.lr.actions.menu.DesertMenu;
+import com.sahil.lr.actions.menu.Menu;
 
 import java.io.Serializable;
 

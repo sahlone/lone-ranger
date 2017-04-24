@@ -1,7 +1,8 @@
-package com.auto1.lr.map;
+package com.sahil.lr.map;
 
-import com.auto1.lr.map.locations.Location;
-import com.auto1.lr.map.locations.LocationType;
+import com.sahil.lr.map.locations.Location;
+import com.sahil.lr.map.locations.LocationType;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -34,7 +35,7 @@ public class WorldMapTest {
         assertNotNull(location);
         assertEquals(location.getX(), 0);
         assertEquals(location.getY(), 0);
-        assertEquals(LocationType.EMPTY, location.getLocationType());
+        Assert.assertEquals(LocationType.EMPTY, location.getLocationType());
         assertNull(location.getLocationItem());
     }
 

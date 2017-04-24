@@ -1,4 +1,4 @@
-package com.auto1.lr.map;
+package com.sahil.lr.map;
 
 /**
  * Contains possible player's move directions

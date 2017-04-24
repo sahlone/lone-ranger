@@ -1,12 +1,12 @@
-Apr 20, 2017 10:56:44 PM com.auto1.lr.logger.CentralizedLogger log
+Apr 20, 2017 10:56:44 PM CentralizedLogger log
 SEVERE: Could not save game: 
 java.io.IOException
 	at com.auto1.lr.actions.ActionsExecutor.save(ActionsExecutor.java:66)
-	at com.auto1.lr.controller.GamePlayController.executeCommand(GamePlayController.java:155)
-	at com.auto1.lr.controller.GamePlayController.continueGame(GamePlayController.java:74)
-	at com.auto1.lr.controller.GamePlayController.startGame(GamePlayController.java:62)
-	at com.auto1.lr.controller.GameStartupController.startupGame(GameStartupController.java:34)
-	at com.auto1.lr.application.EntryPoint.main(EntryPoint.java:14)
+	at GamePlayController.executeCommand(GamePlayController.java:155)
+	at GamePlayController.continueGame(GamePlayController.java:74)
+	at GamePlayController.startGame(GamePlayController.java:62)
+	at GameStartupController.startupGame(GameStartupController.java:34)
+	at EntryPoint.main(EntryPoint.java:14)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

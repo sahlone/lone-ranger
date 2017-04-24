@@ -1,7 +1,7 @@
-package com.auto1.lr.model;
+package com.sahil.lr.model;
 
-import com.auto1.lr.map.WorldMap;
-import com.auto1.lr.map.locations.Location;
+import com.sahil.lr.map.WorldMap;
+import com.sahil.lr.map.locations.Location;
 
 import java.io.Serializable;
 import java.util.Objects;

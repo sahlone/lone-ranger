@@ -1,4 +1,4 @@
-package com.auto1.lr.logger;
+package com.sahil.lr.logger;
 
 /**
  * Created by slone on 4/20/17.

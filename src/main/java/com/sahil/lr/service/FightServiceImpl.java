@@ -1,13 +1,13 @@
-package com.auto1.lr.service;
+package com.sahil.lr.service;
 
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.model.NPC;
-import com.auto1.lr.model.Player;
-import com.auto1.lr.map.locations.DesertLocation;
-import com.auto1.lr.map.locations.Location;
-import com.auto1.lr.actions.menu.AbstractMenu;
-import com.auto1.lr.actions.menu.FightMenu;
-import com.auto1.lr.utils.RandomUtil;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.model.NPC;
+import com.sahil.lr.model.Player;
+import com.sahil.lr.map.locations.DesertLocation;
+import com.sahil.lr.map.locations.Location;
+import com.sahil.lr.actions.menu.AbstractMenu;
+import com.sahil.lr.actions.menu.FightMenu;
+import com.sahil.lr.utils.RandomUtil;
 
 /**
  * Basic implementation of {@link FightService}

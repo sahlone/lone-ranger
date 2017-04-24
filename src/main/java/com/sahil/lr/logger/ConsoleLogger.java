@@ -1,4 +1,4 @@
-package com.auto1.lr.logger;
+package com.sahil.lr.logger;
 
 import java.io.IOException;
 import java.util.logging.*;

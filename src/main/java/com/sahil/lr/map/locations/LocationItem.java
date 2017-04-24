@@ -1,4 +1,4 @@
-package com.auto1.lr.map.locations;
+package com.sahil.lr.map.locations;
 
 /**
  * Marker interface to mark classes

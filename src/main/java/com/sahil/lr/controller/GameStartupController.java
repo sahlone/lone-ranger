@@ -1,11 +1,11 @@
-package com.auto1.lr.controller;
+package com.sahil.lr.controller;
 
-import com.auto1.lr.logger.ConsoleLogger;
-import com.auto1.lr.model.GameContext;
-import com.auto1.lr.data.GameContextRepository;
-import com.auto1.lr.actions.ActionsExecutor;
-import com.auto1.lr.actions.menu.MainMenu;
-import com.auto1.lr.actions.menu.Menu;
+import com.sahil.lr.logger.ConsoleLogger;
+import com.sahil.lr.model.GameContext;
+import com.sahil.lr.data.GameContextRepository;
+import com.sahil.lr.actions.ActionsExecutor;
+import com.sahil.lr.actions.menu.MainMenu;
+import com.sahil.lr.actions.menu.Menu;
 
 import java.io.IOException;
 import java.nio.file.Files;
