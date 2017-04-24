@@ -1,7 +1,7 @@
 package com.auto1.lr.ui.menu;
 
-import com.auto1.lr.actions.menu.Menu;
-import com.auto1.lr.actions.menu.AlienLocationMenu;
+import com.sahil.lr.actions.menu.Menu;
+import com.sahil.lr.actions.menu.AlienLocationMenu;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,13 +1,13 @@
 package com.auto1.lr.game.battle;
 
-import com.auto1.lr.service.FightService;
-import com.auto1.lr.service.FightServiceImpl;
-import com.auto1.lr.model.Player;
-import com.auto1.lr.map.locations.FighterLocation;
-import com.auto1.lr.model.NPC;
-import com.auto1.lr.map.locations.Location;
-import com.auto1.lr.map.locations.LocationType;
-import com.auto1.lr.utils.RandomUtil;
+import com.sahil.lr.service.FightService;
+import com.sahil.lr.service.FightServiceImpl;
+import com.sahil.lr.model.Player;
+import com.sahil.lr.map.locations.FighterLocation;
+import com.sahil.lr.model.NPC;
+import com.sahil.lr.map.locations.Location;
+import com.sahil.lr.map.locations.LocationType;
+import com.sahil.lr.utils.RandomUtil;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.contrib.java.lang.system.ExpectedSystemExit;

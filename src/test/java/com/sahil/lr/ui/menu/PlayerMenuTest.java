@@ -1,7 +1,7 @@
 package com.auto1.lr.ui.menu;
 
-import com.auto1.lr.model.GameContext;
-import com.auto1.lr.actions.menu.PlayerMenu;
+import com.sahil.lr.model.GameContext;
+import com.sahil.lr.actions.menu.PlayerMenu;
 import org.junit.Before;
 import org.junit.Test;
 

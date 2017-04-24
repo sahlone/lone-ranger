@@ -1,7 +1,7 @@
 package com.auto1.lr.ui.menu;
 
-import com.auto1.lr.actions.menu.AbstractMenu;
-import com.auto1.lr.actions.menu.FightMenu;
+import com.sahil.lr.actions.menu.AbstractMenu;
+import com.sahil.lr.actions.menu.FightMenu;
 import org.junit.Before;
 import org.junit.Test;
 
